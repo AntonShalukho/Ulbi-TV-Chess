@@ -2,7 +2,7 @@
   "name": "ulbi-tv-chess",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AntonShalukho/Ulbi-TV-Chess.git",
+  "homepage": "https://antonshalukho.github.io/Ulbi-TV-Chess/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
