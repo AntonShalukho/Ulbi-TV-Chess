@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ulbi-TV-Chess/static/css/main.bcc23d33.css",
+    "main.js": "/Ulbi-TV-Chess/static/js/main.b3b2babb.js",
+    "static/js/787.71afeba7.chunk.js": "/Ulbi-TV-Chess/static/js/787.71afeba7.chunk.js",
+    "index.html": "/Ulbi-TV-Chess/index.html",
+    "main.bcc23d33.css.map": "/Ulbi-TV-Chess/static/css/main.bcc23d33.css.map",
+    "main.b3b2babb.js.map": "/Ulbi-TV-Chess/static/js/main.b3b2babb.js.map",
+    "787.71afeba7.chunk.js.map": "/Ulbi-TV-Chess/static/js/787.71afeba7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcc23d33.css",
+    "static/js/main.b3b2babb.js"
+  ]
+}
